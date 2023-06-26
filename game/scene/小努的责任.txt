@@ -1,0 +1,3 @@
+changeBg:8888888888.jpg -next;
+intro:;
+playVideo:00000000000.mp4;

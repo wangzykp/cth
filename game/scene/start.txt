@@ -1,0 +1,15 @@
+intro:小组成员：胡洁 P2012044                  努冉娜P201212077                 陈廷昊P201212336;
+; 初始场景，以及特效演示
+changeBg:bbbbbbbbbbbbbbb.jpg -next;
+changeFigure: -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+导师:小努，这都几号了，你论文要拖到啥时候！;
+miniAvatar:选择小头像;
+小努:不好意思不好意思老师，我现在马上赶来学校交给您;
+changeBg:bbbbbbbbbbbbbbb.jpg;
+bgm:;
+playEffect:;
+intro:你想怎么赶去学校;
+setTextbox:hide;
+choose:坐公交:公交车.txt|骑共享单车:共享单车.txt|步行:步行.txt;
+setTextbox:hide;
